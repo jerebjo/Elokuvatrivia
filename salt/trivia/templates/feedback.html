@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Answer Feedback</title>
+</head>
+<body>
+    <h1>{{ "Correct!" if result else "Wrong!" }}</h1>
+    <p>You answered: {{ user }}</p>
+    <p>Correct answer: {{ correct }}</p>
+    <a href="/quiz">Next Question</a>
+</body>
+</html>

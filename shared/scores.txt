@@ -1,0 +1,9 @@
+slave: 0/10
+slave: 0/10
+slave2: 1/10
+slave: 10/10
+slave: 6/10
+slave: 10/10
+slave2: 3/10
+slave: 3/10
+slave2: 7/10

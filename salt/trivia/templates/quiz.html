@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="fi">
+<head>
+  <meta charset="UTF-8">
+  <title>Elokuvatrivia</title>
+</head>
+<body>
+  <h2>{{ question.question }}</h2>
+
+  <form method="POST">
+    {% for choice in question.choices %}
+      <label>
+        <input type="radio" name="answer" value="{{ choice }}" required>
+        {{ choice }}
+      </label><br>
+    {% endfor %}
+    <br>
+    <button type="submit">Submit</button>
+  </form>
+</body>
+</html>
