@@ -2,7 +2,8 @@
 
 Kahden tai useamman koneen elokuvatrivia-peli, joka asentuu automaattisesti Vagrantilla ja Saltilla.
 
-![peliruutu](Kuvat/elokuvatrivia.png)
+![elokuvatrivia](https://github.com/user-attachments/assets/f3297f6c-185b-488c-8a9e-d2ce44e893f3)
+
 
 ## Projektin tarkoitus
 
