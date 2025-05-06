@@ -43,9 +43,9 @@ Koneen sisällä:
 
 Avaa selaimessa: 
 
-Pelaaja 1: http://192.168.88.102 
+- Pelaaja 1: http://192.168.88.102 
 
-Pelaaja 2: http://192.168.88.103 
+- Pelaaja 2: http://192.168.88.103 
 
 Pelaajat näkevät kysymykset selaimessaan ja voivat kilpailla toisiaan vastaan! 
 
