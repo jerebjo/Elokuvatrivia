@@ -49,5 +49,16 @@ Pelaaja 2: http://192.168.88.103
 
 Pelaajat näkevät kysymykset selaimessaan ja voivat kilpailla toisiaan vastaan! 
 
+## Tekninen toteutus
+
+- 🖥️ 3 virtuaalikonetta: 1 master + 2 minion
+
+- 🔧 Salt hallitsee Apachea, Flaskia ja pelitiedostoja
+
+- 📦 Vagrantilla hallittu kokonaisuus
+
+- 🧠 Flask-sovellus + HTML-template-pohjat
+
+- 📄 Apache + mod_wsgi + trivia.wsgi yhdistävät Flaskin web-palvelimeen
 
 
